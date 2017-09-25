@@ -8,9 +8,13 @@
 
 <br>
 
-##### The problem
-This script download the whole helper (from github servers) as one package and then extract it (for realy better performance).
+##### Problem
+Upload of pycharm helpers sometimes is realy slow.
 
+##### Solution
+This script download the whole helper (from github servers) as one package and then extract it (for realy better performance).
+![](diagram.jpg)
+> This ugly diagram show how this work
 
 ##### Usage
 To install the helpers on a remote server you must do the following:
