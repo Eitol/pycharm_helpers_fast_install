@@ -22,7 +22,9 @@ To install the helpers on a remote server you must do the following:
 git clone https://github.com/Eitol/pycharm_helpers_fast_install.git
 cd pycharm_helpers_fast_install
 bash install_helpers.sh PYCHARM_VERSION
-# EXAMPLE  bash install_helpers.sh 2017.2.3
+# EXAMPLE  bash install_helpers.sh 181.4203.547
+the version 181.4203.547 correspont to PyCharm 2018.1
+To see the version go to help -> about
 ```
 
 It will download and install the helpers according to the version of PyCharm that you want.
